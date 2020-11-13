@@ -3,10 +3,6 @@ import java.util.Collection;
 import java.util.Map;
 import java.util.TreeMap;
 /*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
- * 
  * SortingIP class is used to sort the IP addressed that we use in the combo box
  */
 

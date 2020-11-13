@@ -1,8 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
- * 
  * The class that runs the main A2 class
  */
 

@@ -2,10 +2,6 @@ import java.io.*;
 import java.util.*;
 
 /*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
- * 
  * The Simulator class that creates an ArrayList<Packet> that is made from the text file that is given
  */
 public class Simulator {

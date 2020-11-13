@@ -1,8 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
- * 
  * Packet class that find the correct value of each line in the text given.
  */
 

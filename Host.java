@@ -1,8 +1,3 @@
-/*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
- */
 import java.util.Scanner;
 
 // Host class implement comparable on its own Object i.e. class. This class allows us to sort the ip address.

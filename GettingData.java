@@ -1,8 +1,3 @@
-/*  
- *  Name: Natalia Usoltseva
- *  UPI: nuso101 
- *  ID: 416666305
-*/
 
 import java.io.File;
 import java.util.*;

@@ -1,8 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
- * 
  * PacketTableModel creates the object[][] that we use for creating a table model for JTable in the main class A2. 
  */
 

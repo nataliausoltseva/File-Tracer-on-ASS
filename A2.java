@@ -9,9 +9,6 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 /*
- * Name: Natalia Usoltseva
- * IP: nuso101
- * ID: 416666305
  * The main class where JFrame created with radio buttons, combo box for IPs and JTable.
  */
 public class A2 extends JFrame {
